@@ -38,7 +38,6 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#libraries">Libraries</a></li>
-        <li><a href="#packages">Packages</a></li>
         <li><a href="#known-exceptions">Known Exceptions</a></li>
       </ul>
     </li>
