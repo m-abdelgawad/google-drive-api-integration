@@ -18,7 +18,7 @@
 <div align="center">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
 
-  <h3 align="center">Google Drive Integration</h3>
+  <h3 align="center">Google Drive API Integration</h3>
 
 </div>
 
@@ -54,7 +54,7 @@
 
 ![product-screenshot]
 
-* Project Name: Google Drive Integration
+* Project Name: Google Drive API Integration
 * Version: Version 1
 
 ### Description
