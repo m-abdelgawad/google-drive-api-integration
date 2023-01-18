@@ -107,8 +107,6 @@ To get a local copy up and running follow these simple steps.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
 - [x] Download a file
 - [x] Upload a file
 - [x] Delete a file
